@@ -11,7 +11,7 @@ Incentivized node operators on smartphones, VPS, and home PCs.
 
 ## Litepaper
 
-Explore protocol design, tokenomics, and network mechanics in [litepaper.md](./docs/litepaper.md)
+Explore protocol design, tokenomics, and network mechanics in [litepaper.md](./docs/litepaper/01-introduction.md)
 
 ---
 
