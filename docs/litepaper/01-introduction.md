@@ -2,6 +2,8 @@
 hidePrev: true
 ---
 
+# xDSN Network
+
 # 1. Introduction
 
 Today’s cloud storage locks us into high fees, non-transparent pricing, single points of failure, and ever-expanding privacy risks. The xDSN network shatters that model by delivering global, encrypted cloud hot and cold storage at a fraction of the cost—with built-in token rewards for every node operator, whether running on a smartphone, cloud VPS, or home server.
