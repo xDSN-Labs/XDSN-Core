@@ -5,7 +5,7 @@
 Secure, low-cost, decentralized hot & cold storage network, built on IPFS protocol.  
 Incentivized node operators on smartphones, VPS, and home PCs.
 
-**Status:** Planning & Design Phase
+**Status:** Alpha Testnet
 
 ---
 
