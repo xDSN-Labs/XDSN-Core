@@ -17,6 +17,10 @@ Explore protocol design, tokenomics, and network mechanics in [litepaper.md](./0
 
 ## Contributing
 
+The .sh scripts inside the /scripts folder are currently under active development and excluded from version control while the MVP is being refined.
+Configuration files like scripts/config.json are public and stable for reference.
+Scripts will be included once they meet stability and usability criteria.
+
 - Open an issue for questions or feature requests
 - Submit pull requests against `main`
 
