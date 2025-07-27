@@ -1,6 +1,0 @@
-- [Introduction](./index.md)
-- [Problem Statement](./docs/litepaper/01-problem.md)
-- [Proposed Solution](./docs/litepaper/02-solution.md)
-- [Tokenomics].(docs/litepaper/03-tokenomics.md)
-- [Node Roles](.docs/litepaper/04-node-roles.md)
-- [Roadmap](.docs/litepaper/05-roadmap.md)
