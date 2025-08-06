@@ -5,3 +5,4 @@
 - [Solution Overview](docs/03-solution.md)
 - [Technical Architecture](docs/04-technical-architecture.md)
 - [Phased Roadmap](docs/05-phased-roadmap.md)
+- [Tokenomics](docs/06-tokenomics.md)
