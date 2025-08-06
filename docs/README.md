@@ -1,4 +1,4 @@
-# xDSN Network
+# XDSN Network
 
 [![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link)
 
@@ -28,4 +28,4 @@ Scripts will be included once they meet stability and usability criteria.
 
 ## License
 
-MIT © 2025 xDSN Network
+MIT © 2025 XDSN Network
