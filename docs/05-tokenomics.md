@@ -1,4 +1,4 @@
-## 6. Tokenomics
+## 5. Tokenomics
 
 # Chapter 6: Tokenomics
 
