@@ -7,6 +7,12 @@ Incentivized node operators on smartphones, VPS, and home PCs.
 
 **Status:** Alpha Testnet
 
+## 🧠 Smart Contract Info
+
+- **Network**: Sepolia Testnet
+- **Token**: tXDSN
+- **Contract**: [0xCE357DB918decB0D21aCED5b0dC529bdc4F079D0](https://sepolia.etherscan.io/address/0xce357db918decb0d21aced5b0dc529bdc4f079d0)
+
 ---
 
 ## Litepaper
@@ -17,7 +23,7 @@ Explore protocol design, tokenomics, and network mechanics in [litepaper.md](./0
 
 ## Contributing
 
-The .sh scripts inside the /scripts folder are currently under active development and excluded from version control while the MVP is being refined.
+The Node.js and .sh scripts inside the /scripts folder are currently under active development and excluded from version control while the MVP is being refined.
 Configuration files like scripts/config.json are public and stable for reference.
 Scripts will be included once they meet stability and usability criteria.
 

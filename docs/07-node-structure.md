@@ -1,4 +1,4 @@
-## 6. Node Structure
+## 7. Node Structure
 
 # 🌐 Inclusive Tiered Node Rollout Framework
 

@@ -32,7 +32,7 @@ XDSN is a modular, decentralized storage network optimized for both hot and cold
   | Transport  | IPFS DHT for peer discovery & content exchange    |
   | Storage    | Local disk, NAS devices, cloud-integrated storage |
   | Retrieval  | CLI workflows for just-in-time data access        |
-  | Incentives | Polygon-based XDSN token rewards & staking        |
+  | Incentives | Ethereum-based XDSN token rewards & staking        |
   | Security   | Client-side encryption, reputation, audit trails  |
 
 ---
@@ -74,7 +74,7 @@ XDSN is a modular, decentralized storage network optimized for both hot and cold
 ### 🏛️ Governance Architecture
 
 - **Dual-Purpose XDSN Token**  
-  Deployed on Polygon, XDSN serves as both utility (staking, access fees) and governance token.
+  Deployed on Ethereum, XDSN serves as both utility (staking, access fees) and governance token.
 
 - **On-Chain Voting**  
   Token holders vote on protocol upgrades, incentive parameters, and tier definitions via smart contracts.
@@ -94,7 +94,7 @@ XDSN is a modular, decentralized storage network optimized for both hot and cold
 
 - **Node Registration**
 
-  - Nodes stake XDSN tokens on Polygon to register identity and declare tier.
+  - Nodes stake XDSN tokens on Ethereum to register identity and declare tier.
   - A minimum stake is required to join the network and become eligible for node rewards; this stake remains locked during operation.
   - Registration smart contract issues a unique node certificate.
 
@@ -142,7 +142,7 @@ XDSN is a modular, decentralized storage network optimized for both hot and cold
 1. **Onboarding**
 
    - Docker containers bundle all dependencies for hot, warm, and cold node deployments.
-   - CLI tool initializes node identity, tier selection, and Polygon wallet integration.
+   - CLI tool initializes node identity, tier selection, and Ethereum wallet integration.
    - Dockerized images enable one-command deployment across platforms.
 
 2. **Heartbeat & Metrics**

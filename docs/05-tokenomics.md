@@ -11,7 +11,7 @@ The xDSN token is the backbone of the ecosystem, enabling decentralized access, 
 - Govern platform decisions via staking and voting
 - Integrate seamlessly with third-party services
 
-> **Total Fixed Supply:** 1 billion xDSN tokens
+> **Total Fixed Supply:** 1 billion xDSN tokens on the Ethereum Blockchain
 
 ---
 
@@ -62,7 +62,7 @@ Token holders can actively shape the platform through:
 
 ## 🌐 Blockchain & Interoperability
 
-- **Blockchain:** Deployed on **Polygon** for scalable throughput and low transaction fees
+- **Blockchain:** Deployed on **Ethereum** for scalable throughput and low transaction fees
 - **Smart Contract:** Built using a **thirdweb ERC-20 contract**, audited by **Macro Audits**
 - **Wallet Security:** Critical operations are protected by **multi-signature wallets**, ensuring decentralized control and enhanced security
 - **EVM-Compatible:** Integrates easily with Ethereum-based wallets and dApps
@@ -133,3 +133,11 @@ A full-featured real-time dashboard will be launched within 30–60 days of toke
 - Token burn events and staking participation metrics
 
 For incentivized Node Operators, a secure CLI dashboard will be available at mainnet launch, offering streamlined access to performance insights and staking status
+
+---
+
+## 🧪 Testnet Token Conversion (tXDSN)
+
+Early contributors who earned `tXDSN` tokens during the testnet phase will be eligible to convert them into mainnet `XDSN` tokens. This conversion is performance-based and capped to preserve token supply integrity.
+
+> For full details on conversion tiers, claim windows, and audit mechanisms, see [Chapter 6: Testnet-to-Mainnet Migration](#).
