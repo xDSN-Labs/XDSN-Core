@@ -1,5 +1,5 @@
 ---
-title: XDSN Litepaper: Introduction"
+title: "XDSN Litepaper: Introduction"
 sidebar_position: 1
 ---
 
