@@ -8,13 +8,13 @@ A fair pricing structure with governance access across all levels—designed for
 
 ## 🪜 Node Tiers Overview
 
-| Tier Name            | USD Stake | XDSN Required (@ $0.10) | Quantity (Suggested) | Governance Access | Notes                                         |
-| -------------------- | --------- | ----------------------- | -------------------- | ----------------- | --------------------------------------------- |
-| **Tier 1: Horizon**  | $100      | 1,000 XDSN              | 500                  | ✅ Full           | Starter tier; must pass basic setup challenge |
-| **Tier 2: Beacon**   | $200      | 2,000 XDSN              | 300                  | ✅ Full           | Uptime & bandwidth verification required      |
-| **Tier 3: Pulse**    | $300      | 3,000 XDSN              | 200                  | ✅ Full           | Eligible for rep-based promotion perks        |
-| **Tier 4: Vanguard** | $400      | 4,000 XDSN              | 100                  | 🟡 Weighted       | Priority for advanced tasks & proposals       |
-| **Tier 5: Apex**     | $500      | 5,000 XDSN              | 50                   | 🟢 Elevated       | Early insights, feature testing invites       |
+| Tier Name            | USD Stake | XDSN Required (@ $0.10) | Quantity | Governance Access | Notes                                         |
+| -------------------- | --------- | ----------------------- | -------- | ----------------- | --------------------------------------------- |
+| **Tier 1: Horizon**  | $100      | 1,000 XDSN              | 500      | ✅ Full           | Starter tier; must pass basic setup challenge |
+| **Tier 2: Beacon**   | $200      | 2,000 XDSN              | 300      | ✅ Full           | Uptime & bandwidth verification required      |
+| **Tier 3: Pulse**    | $300      | 3,000 XDSN              | 200      | ✅ Full           | Eligible for rep-based promotion perks        |
+| **Tier 4: Vanguard** | $400      | 4,000 XDSN              | 100      | 🟡 Weighted       | Priority for advanced tasks & proposals       |
+| **Tier 5: Apex**     | $500      | 5,000 XDSN              | 50       | 🟢 Elevated       | Early insights, feature testing invites       |
 
 ---
 
